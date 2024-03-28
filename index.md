@@ -289,5 +289,4 @@ Add your recipe to the bulleted list:
 - [Tea Eggs](./recipes/Tea_Eggs.html)
 - [Mole Sauce](./recipes/MoleSauce.html)
 - [Cilantro Lime Sauce](./recipes/CilantroLimeSauce.html)
-- [Mushroom Risotto](./recipes/Risotto.html)
-
+- [Risotto](./recipes/Risotto.html)
